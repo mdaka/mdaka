@@ -1,8 +1,11 @@
 Hi 👋
 I'm a Software Engineer with 4+ years of experience
-* ⚡️ Backend technologies I work with: PHP 5/7, Laravel, Node.js, Express.js
-* ⚡️ Frontend technologies I work with: jQuery, JavaScript, TypeScript, CSS, HTML, Bootstrap 3/4, Angular
+
 * ⚡️ RDBMS: MySQL, PostgreSQL
+* ⚡️ Backend: PHP 5/7, Laravel, Node.js, Express.js
+* ⚡️ Frontend: ElectronJS, Chrome extension, jQuery, JavaScript, TypeScript, Angular
+* ⚡️ Style: CSS/3, Bootstrap 3/4
+
 * 📭 Reach me out at https://twitter.com/mohammad_daka
 
 <p align="left">
