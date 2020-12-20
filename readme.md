@@ -6,14 +6,21 @@ I'm a Software Engineer with 4+ years of experience
 * ⚡️ Frontend: ElectronJS, Chrome extension, jQuery, JavaScript, TypeScript, Angular
 * ⚡️ Style: CSS/3, Bootstrap 3/4
 
-* 📭 Reach me out at https://twitter.com/mohammad_daka
-
-<p align="left">
+<div>
+    📭 Reach me out at <br>
     <a href="http://www.stepintoprogramming.com/">
         <img 
-            align="center" 
             alt="stepintoprogramming.com" 
             src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorB=green&style=for-the-badge" />
-    </a>&nbsp;
-    <small> JavaScript, PHP, Laravel, Tips</small>
+    </a>
+    <a href="https://www.linkedin.com/in/mdaka/">
+        <img 
+            alt="linkedin_account" 
+            src="https://img.shields.io/badge/-LinkedIn-gray.svg?colorB=blue&style=for-the-badge" />
+    </a>
+    <a href="https://twitter.com/mohammad_daka">
+        <img 
+            alt="twitter_account" 
+            src="https://img.shields.io/badge/-Twitter-gray.svg?colorB=skyblue&style=for-the-badge" />
+    </a>
 </p>
