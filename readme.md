@@ -1,10 +1,19 @@
 Hi 👋
-I'm a Software Engineer with 4+ years of experience
+I'm a Software Engineer with 6+ years of experience
 
+
+* ⚡️ Node.js, Express.js, TypeScript
+* ⚡️ Monolith, Micro Services
+* ⚡️ PHP 5/7, Laravel
+*
+* ⚡️ MongoDB
 * ⚡️ RDBMS: MySQL, PostgreSQL
-* ⚡️ Backend: PHP 5/7, Laravel, Node.js, Express.js
-* ⚡️ Frontend: ElectronJS, Chrome extension, jQuery, JavaScript, TypeScript, Angular
+*
+* ⚡️ Frontend: ElectronJS, Chrome extensions, jQuery, JavaScript, Angular, React
 * ⚡️ Style: CSS/3, Bootstrap 3/4
+*
+* ⚡️ Kafka
+* ⚡️ Redis, Bull-Queue
 
 <div>
     📭 Reach me out at <br>
